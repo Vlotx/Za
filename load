@@ -1,4 +1,4 @@
--- ลิงก์สคริปต์สำหรับแต่ละแมพ
+
 local scriptsForPlaces = {
     [107040934010858] = "https://raw.githubusercontent.com/Vlotx/PjE/refs/heads/main/hub", --Project Egoist
 	[4282985734] = "https://raw.githubusercontent.com/Vlotx/CBW/refs/heads/main/hub.lua", --Combat Warriors
@@ -7,7 +7,7 @@ local scriptsForPlaces = {
     [94647229517154] = "https://raw.githubusercontent.com/Vlotx/al/refs/heads/main/hub", --Azure Latch
 }
 
--- เช็ค PlaceId ว่าเป็น 70876832253163 หรือ 116495829188952 หรือไม่
+
 if game.PlaceId == 70876832253163 or game.PlaceId == 116495829188952 then
     local scriptURL = "https://raw.githubusercontent.com/Vlotx/dr/refs/heads/main/hub"
     loadstring(game:HttpGet(scriptURL))()
