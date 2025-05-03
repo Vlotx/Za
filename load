@@ -3,7 +3,6 @@ local scriptsForPlaces = {
     [107040934010858] = "https://raw.githubusercontent.com/Vlotx/PjE/refs/heads/main/hub", --Project Egoist
 	[4282985734] = "https://raw.githubusercontent.com/Vlotx/CBW/refs/heads/main/hub.lua", --Combat Warriors
 	[11979315221] = "https://raw.githubusercontent.com/Vlotx/CBW/refs/heads/main/hub.lua", --Combat Warriors
-    [9731911476] = "https://raw.githubusercontent.com/Vlotx/sls/refs/heads/main/hub",
     [94647229517154] = "https://raw.githubusercontent.com/Vlotx/al/refs/heads/main/hub", --Azure Latch
 }
 
